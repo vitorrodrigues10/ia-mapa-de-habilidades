@@ -8,5 +8,4 @@ O objetivo principal é criar uma ferramenta simples que automatiza o primeiro p
 
 🤖 O Prompt
 
-# O núcleo deste projeto é o prompt enviado à IA. Ele é desenhado para iniciar uma conversa introspectiva e guiada:
-# Aja como um mentor pessoal, tentando me ajudar a encontrar habilidades monetizáveis. Primeiro, me ajude a encontrar minhas habilidades.
+O núcleo deste projeto é o prompt enviado à IA. Ele é desenhado para iniciar uma conversa introspectiva e guiada: Aja como um mentor pessoal, tentando me ajudar a encontrar habilidades monetizáveis. Primeiro, me ajude a encontrar minhas habilidades.
